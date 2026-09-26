@@ -1,0 +1,7 @@
+{
+  "name": "SportPro",
+  "description": "Gestión integral de academias y equipos de fútbol con seguimiento en vivo, alineaciones y asistencia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
